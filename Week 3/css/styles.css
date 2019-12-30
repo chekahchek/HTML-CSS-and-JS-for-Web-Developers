@@ -1,0 +1,51 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #3f7806;
+  font-family: sans-serif;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #6acc98;
+  border-radius: 0;
+  border: 0;
+}
+
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #000;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -45px;
+}
+
+/* END HEADER */
+
+
+.container-box {
+  background-color: grey;
+  border: 1px solid white;
+  text-align: center;
+  padding:3px;
+  margin:10px;
+}
+
+.container-box .section{
+  font-size: 20px;
+  font-weight:bold;
+}
+
+hr {
+  margin: 0;
+}
